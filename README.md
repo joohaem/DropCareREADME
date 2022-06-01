@@ -81,7 +81,7 @@ Main Layout Design [@jihyun](https://www.linkedin.com/in/jihyun-lee-ba5900215/)
 
 ## 기간
 
-22/03 ~ 22/05, upper 400 commits
+22/03 ~ 22/05, upper than 400 commits
 
 ## 폴더 구조
 
