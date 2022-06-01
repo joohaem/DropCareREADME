@@ -14,6 +14,8 @@ DropCare는 병동에 있는 의료 감독의 사각 지대에 있는 주요 데
 
 [[SKT IMPACTUPS] 닥터스팹 유투브 영상](https://www.youtube.com/watch?v=vlxZO1mdXaI)
 
+[사용자 메뉴얼 :: WIKI 바로 가기](https://github.com/joohaem/DropCareREADME/wiki/DropCare-%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
+
 ## 주요 기술
 
 - VAC 패턴 (`components/.../~View.tsx`)
