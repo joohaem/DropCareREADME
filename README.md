@@ -138,7 +138,7 @@ Main Layout Design [@jihyun](https://www.linkedin.com/in/jihyun-lee-ba5900215/)
 │   │   │   │   ├── useRangeValueInput.ts
 │   │   │   │   └── useFetchJsonData.ts
 │   │   │   ├── ABox.tsx
-├───┴───┴───┴── ABoxView.tsx
+│   └   ┴   └── ABoxView.tsx
 ├── .eslintrc.json
 ├── .prettierrc
 └── tsconfig.json
