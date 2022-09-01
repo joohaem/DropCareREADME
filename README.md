@@ -1,5 +1,7 @@
 ## DropCare w. (주)닥터스팹
 
+**[:link: 사용자 메뉴얼 :: WIKI 바로 가기](https://github.com/joohaem/DropCareREADME/wiki/DropCare-%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)**
+
 > Care the Uncared Service
 
 DropCare는 환자의 IV(Intra Venous) 주입 상태 또는 소변 정보에 대한 데이터를 실시간으로 수집 및 모니터링 하는 IoT 서비스입니다.
@@ -12,9 +14,7 @@ DropCare는 병동에 있는 의료 감독의 사각 지대에 있는 주요 데
 
 ![드랍케어 ](https://user-images.githubusercontent.com/47105088/169686799-8d68ab6a-a8da-4daa-a90a-fa66aa607f33.png)
 
-[[SKT IMPACTUPS] 닥터스팹 유투브 영상](https://www.youtube.com/watch?v=vlxZO1mdXaI)
-
-[사용자 메뉴얼 :: WIKI 바로 가기](https://github.com/joohaem/DropCareREADME/wiki/DropCare-%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
+[:link: [SKT IMPACTUPS] 닥터스팹 유투브 영상](https://www.youtube.com/watch?v=vlxZO1mdXaI)
 
 ## 주요 기술
 
@@ -32,7 +32,7 @@ DropCare는 병동에 있는 의료 감독의 사각 지대에 있는 주요 데
 
 - SWR vs React Query
     
-    [[React][비교] SWR vs React Query vs Recoil selector ?](https://snupi.tistory.com/194)
+    [:link: [React][비교] SWR vs React Query vs Recoil selector ?](https://snupi.tistory.com/194)
     
     - 1초에 한 번씩의 잦은 리패칭이 필요하여, 패칭 라이브러리로 `React Query`를 결정하였다
     - React Query로 정보를 `1~2초`마다 불러온다
@@ -45,7 +45,7 @@ DropCare는 병동에 있는 의료 감독의 사각 지대에 있는 주요 데
 
 - 그래프 차트 (`components/aBox/chart/chartConfig.ts`)
     - JSON & CSV
-        ![JSON & CSV](https://user-images.githubusercontent.com/47105088/169864066-9d13d284-4524-4b1b-b577-2dfe899ff50c.png)
+        ![:link: JSON & CSV](https://user-images.githubusercontent.com/47105088/169864066-9d13d284-4524-4b1b-b577-2dfe899ff50c.png)
        ` 1초에 한 번씩 환자 정보`를 받기 위해 `JSON 통신`을 하였고,
         `축적된 데이터를 차트로 가시화`하기 위해서 `CSV 테이블을 통신`하여 수신하였다
         많은 양의 데이터를 CSV 테이블로 받아옴으로써 보다 더 작은 용량으로 처리할 수 있었다
