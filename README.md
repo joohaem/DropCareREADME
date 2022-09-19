@@ -112,7 +112,7 @@ Main Layout Design [@jihyun](https://www.linkedin.com/in/jihyun-lee-ba5900215/)
 │   │   │   ├── PreMain.tsx
 │   │   │   └── Main.tsx
 │   │   ├── hooks
-│   │   │   └── useOutClickCloser.ts
+│   │   │   └── useClosingModal.ts
 │   │   ├── main
 │   │   │   ├── popUp
 │   │   │   │   └── ...
@@ -134,7 +134,6 @@ Main Layout Design [@jihyun](https://www.linkedin.com/in/jihyun-lee-ba5900215/)
 │   │   │   ├── util
 │   │   │   │   └── parseToDoubleDigits.ts
 │   │   │   ├── hooks
-│   │   │   │   ├── useFetchJsonData.ts
 │   │   │   │   ├── useRangeValueInput.ts
 │   │   │   │   └── useFetchJsonData.ts
 │   │   │   ├── ABox.tsx
